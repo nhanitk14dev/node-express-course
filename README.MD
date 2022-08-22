@@ -1,29 +1,47 @@
 # Node and Express Tutorial
 
-#### Node Course
+#### I. Node Tutorial
+1. Main JavaScript Concepts:
 
-[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
+    [How much JavaScript do you need to know to use Node.js?](https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs)
 
-#### Support
+    - Lexical Structure
+    - Expressions
+    - Types
+    - Classes
+    - Variables
+    - Functions
+    - this
+    - Arrow Functions
+    - Loops
+    - Scopes
+    - Arrays
+    - Template Literals
+    - Semicolons
+    - Strict Mode
+    - ECMAScript 6, 2016, 2017
+    - https://nodejs.dev/en/learn/javascript-asynchronous-programming-and-callbacks
+    - https://nodejs.dev/en/learn/discover-javascript-timers
+    - https://nodejs.dev/en/learn/understanding-javascript-promises
+    - https://nodejs.dev/en/learn/modern-asynchronous-javascript-with-async-and-await
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+    - https://nodejs.dev/en/learn/the-nodejs-event-loop
 
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
 
-#### Contents
 
-1. Node Tutorial
-2. Express Tutorial
-3. Task Manager (MongoDB, Mongoose)
-4. Store API
-5. JWT Basics
-6. Jobs API
+2.  Express
 
-#### Course Exclusive
+    - [Express Tutorial](https://expressjs.com/en/starter/examples.html)
+    - Task Manager (MongoDB, Mongoose)
+    - Store API
+    - JWT Basics
+    - Jobs API
+    - File Upload (local and cloudinary)
+    - Send Email (nodemailer,ethereal and sendgrid )
+    - Stripe Payment
+    - E-Commerce API
+    - Auth Workflow (verify email, reset password)
+    - Sessions
 
-[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
-
-7. File Upload (local and cloudinary)
-8. Send Email (nodemailer,ethereal and sendgrid )
-9. Stripe Payment
-10. E-Commerce API
-11. Auth Workflow (verify email, reset password)
-12. Sessions
+### II. Build Example With Nodejs (Vuejs)
+   
